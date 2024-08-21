@@ -1,0 +1,20 @@
+.RecipesContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Recipe {
+    margin: 10px 10px 10px 10px;
+    background-color: burlywood;
+    width: 50%;
+}
+
+.RecipeName {
+    font-weight: bold;
+}
+
+.RecipeDescription {
+
+}
